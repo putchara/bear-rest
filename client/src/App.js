@@ -1,3 +1,5 @@
+
+//seperate reducers
 import React, { Component } from 'react';
 import axios from 'axios';
 import { createStore, applyMiddleware } from 'redux';
